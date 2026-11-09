@@ -2,7 +2,6 @@
 
 **COMPSCI 4Z03 – Directed Readings**
 **Michele Akeson**
-**400027379**
 **August 14, 2024**
 
 ---
